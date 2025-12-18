@@ -3,6 +3,7 @@ python-dotenv
 requests
 
 groq
+langchain-groq==0.1.4
 tavily-python
 
 langchain==0.1.16
